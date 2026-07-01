@@ -1,8 +1,8 @@
-Inroduction
+##Inroduction
 
-Name: vishavjot Kaur 
-Education: B.Tech in Computer Science & Engineering
-Institution: Guru Nanak Dev Engineering College, Ludhiana
+#Name : vishavjot Kaur 
+#Education: B.Tech in Computer Science & Engineering
+#Institution: Guru Nanak Dev Engineering College, Ludhiana
 
 Day 1 of Training
 
@@ -42,7 +42,8 @@ Backend developer
 Full stack developer
 Front end developer
 Business analyst
-What is API? An API defines how software components should interact. Enables developers to access functionality (like login, payments, maps, or weather data) without building everything from scratch.
+What is API?
+An API defines how software components should interact. Enables developers to access functionality (like login, payments, maps, or weather data) without building everything from scratch.
 Types:
 Web APIs (e.g., REST, GraphQL) → used for internet-based services.
 Library APIs → functions provided by programming libraries.
