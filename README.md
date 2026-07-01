@@ -1,8 +1,8 @@
-##Inroduction
+## Inroduction
 
-#Name : vishavjot Kaur 
-#Education: B.Tech in Computer Science & Engineering
-#Institution: Guru Nanak Dev Engineering College, Ludhiana
+# Name : vishavjot Kaur 
+# Education: B.Tech in Computer Science & Engineering
+# Institution: Guru Nanak Dev Engineering College, Ludhiana
 
 Day 1 of Training
 
