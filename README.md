@@ -31,22 +31,22 @@ it's purose is to create innovation, netorking and skill- building.
 4.  UI/Frontend Development: Basic HTML, CSS, JavaScript for clean interfaces.
 5. Version Control (Git): Collaborating efficiently without losing work.
 #  How to solve:
-- Form a diverse team (developer, designer, presenter). - Pick a clear, impactful problem. - Brainstorm and settle on one strong idea. - Build a Minimum Viable Product (MVP) first. - Manage time wisely—don’t chase perfection. - Prepare a clear pitch (problem → solution → demo → impact). - Show real-world relevance and potential scalability.
+- 1.Form a diverse team (developer, designer, presenter). 2.- Pick a clear, impactful problem. 3.- Brainstorm and settle on one strong idea. 4.- Build a Minimum Viable Product (MVP) first. - Manage time wisely—don’t chase perfection. 5.- Prepare a clear pitch (problem → solution → demo → impact). 6.- Show real-world relevance and potential scalability.
 # Career Domains in CSE:
-. Software Development
-. Data Science & Analytics
-. Artificial Intelligence & Machine Learning
-. Cybersecurity
-. Cloud Computing
-.Web & Mobile Development
-.Database Management & Networking
+1.Software Development
+2. Data Science & Analytics
+3. Artificial Intelligence & Machine Learning
+4. Cybersecurity
+5. Cloud Computing
+6.Web & Mobile Development
+7.Database Management & Networking
 # opportunites after CSE:
-. HR
-. Sales manager / marketing
-. Backend developer
-. Full stack developer
-. Front end developer
-. Business analyst
+1. HR
+2. Sales manager / marketing
+3. Backend developer
+4. Full stack developer
+5. Front end developer
+6. Business analyst
 # What is API?
 An API defines how software components should interact. Enables developers to access functionality (like login, payments, maps, or weather data) without building everything from scratch.
 # Types:
